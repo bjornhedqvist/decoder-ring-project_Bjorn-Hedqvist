@@ -1,6 +1,3 @@
-# decoder-ring-project_Bjorn-Hedqvist
-
-
 ## Thinkful Engineering Immersion Bootcamp, Module 12: --JS Functions/Algorithms and Mocha + Chai tests -- Capstone project
 
 
@@ -8,6 +5,6 @@ The goal of this project was to follow a *Test Driven Development* process, and 
 
 My code rests in the `.js` files in the `src` folder, as well as the `.test.js` files in the `test` folder. The rest of the files and folders aside from this `README.md` are property of and credited to Thinkful.
 
-###Thank you for reading and checking out this project, and I look forward to hearing your feedback!
+### Thank you for reading and checking out this project, and I look forward to hearing your feedback!
 
-~Björn Hedqvist 
+### ~Björn Hedqvist 
